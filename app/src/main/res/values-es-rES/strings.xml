@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AulaGPS</string>
+    <string name="sensor_luminosidade">" SENSOR DE LUMINOSIDAD"</string>
+    <string name="sensor_proximidade">" SENSOR DE PROXIMIDAD"</string>
+    <string name="sensor_localizacao">" SENSOR DE UBICACIÓN"</string>
+    <string name="sensor_temperatura">" SENSOR DE TEMPERATURA"</string>
+</resources>

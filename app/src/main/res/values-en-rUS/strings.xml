@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Class</string>
+    <string name="sensor_luminosidade">" LUMINOSITY SENSOR"</string>
+    <string name="sensor_proximidade">" PROXIMITY SENSOR"</string>
+    <string name="sensor_localizacao">" LOCATION SENSOR"</string>
+    <string name="sensor_temperatura">" TEMPERATURE SENSOR"</string>
+</resources>

@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">IoT</string>
+    <string name="sensor_luminosidade">SENSOR LUMINOSIDADE</string>
+    <string name="sensor_proximidade">SENSOR PROXIMIDADE</string>
+    <string name="sensor_localizacao">SENSOR LOCALIZAÇÃO</string>
+    <string name="sensor_temperatura">SENSOR TEMPERATURA</string>
+</resources>
