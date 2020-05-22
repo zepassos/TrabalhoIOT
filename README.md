@@ -1,5 +1,6 @@
 # TrabalhoIOT
-TrabalhoIOT
+
+IOT
 
 Este projeto desenvolvido em java através do Android Studio, permite enviar requisições http por JSON para uma API na nuvem que exibe os dados em uma dashboard.
 
