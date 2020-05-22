@@ -12,6 +12,9 @@ Assim que o sensor for selecionado, o APP enviará a cada 20 segundos os dados a
 INTREGRANTES
 
 Daniel de Lima
+
 José Nilson Gama Passos
+
 Sebastião José De Sousa Neto
+
 Vitor Ferreira Alves
