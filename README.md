@@ -9,7 +9,7 @@ FUNCIONALIDADE
 Após a escolha do idioma desejado, o aplicativo exibe uma nova activity que permite a seleção dos sensores.
 Assim que o sensor for selecionado, o APP enviará a cada 20 segundos os dados atualizados para API.
 
-INTREGRANTES
+INTEGRANTES
 
 Daniel de Lima
 
